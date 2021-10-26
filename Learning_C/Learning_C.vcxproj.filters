@@ -14,4 +14,51 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\3장_변수와 데이터 입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\4장_연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\5장_선택문_if_switch_case.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\6장_반복문_while_for_dowhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\7장_함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\8장_배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\9장_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\10장_배열과 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\11장_문자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\12장_문자열과 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\13장_변수의 영역과 데이터 공유.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\14장_다차원배열과 포인터 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\15장_이중 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\16장_동적 할당 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\17장_구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
