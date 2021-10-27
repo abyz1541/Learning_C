@@ -60,5 +60,11 @@
     <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\17장_구조체.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\01_test\실전예제모음.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\01_test\예제정답_혼공C.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

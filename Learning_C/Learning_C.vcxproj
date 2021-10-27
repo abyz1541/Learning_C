@@ -34,6 +34,8 @@
     <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\7장_함수.c" />
     <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\8장_배열.c" />
     <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\00_example\9장_포인터.c" />
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\01_test\실전예제모음.c" />
+    <ClCompile Include="D:\Hanol\1과목 _ C언어\00_project\C\01_test\예제정답_혼공C.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
